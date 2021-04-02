@@ -1,4 +1,4 @@
-# Skillshare-Premium-Downloader
+# Skillshare-Premium-Downloader (PATCHED AND DOES NOT WORk)
 <h3>Overview:</h3>
 Download any premium Skillshare course with just this Python tool and the course's url.
 
